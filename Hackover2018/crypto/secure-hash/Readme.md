@@ -11,7 +11,7 @@ nc secure-hash.ctf.hackover.de 1337
 ````
 
 ### resources
-[secure_hash.cpp](Hackover2018/crypto/secure-hash/secure_hash.cpp)
+[secure_hash.cpp](secure_hash.cpp)
 
 ### idea
 in ```main```:
@@ -51,7 +51,7 @@ EVP_DESTROY_FN(mdctx);
 We see that the ```std::strings name,password``` get loaded as ```char*``` via ```c_str()```. Using ```name="roottest",password="t"``` would resolve to the same checksum as ```name="root",password="testt"```.
 
 ### script
-[solve.py](Hackover2018/crypto/secure-hash/solve.py) (needs pwn: ```python -m pip install pwn```)
+[solve.py](solve.py) (needs pwn: ```python -m pip install pwn```)
 ```python
 from pwn import *
 

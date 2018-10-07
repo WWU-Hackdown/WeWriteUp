@@ -41,7 +41,7 @@ This is the flag, base64 encoded.
 
 ### script
 ```shell
-curl http://207.154.226.40:8080/flag/flag.txt --: Builder browser 1.0.1" --header "Referer: hackover.18" | base64 --decode
+curl http://207.154.226.40:8080/flag/flag.txt --cookie "isAllowed=true" --header "User-Agent: Builder browser 1.0.1" --header "Referer: hackover.18" | base64 --decode
 ```
 
 ### flag

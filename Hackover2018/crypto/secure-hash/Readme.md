@@ -66,4 +66,25 @@ r.interactive()
 ```
 output:
 ```
+[+] Opening connection to secure-hash.ctf.hackover.de on port 1337: Done
+Main menu:
+
+1 - Register new user
+
+2 - Login
+
+Name: Password: Main menu:
+
+1 - Register new user
+
+2 - Login
+
+Name: Password: Success! Logged in as root
+
+[*] Switching to interactive mode
+You win, the flag is hackover18{00ps_y0u_mu5t_h4ve_h1t_a_v3ry_unlikely_5peci4l_c4s3}
+[*] Got EOF while reading in interactive
+$ 
+[*] Interrupted
+[*] Closed connection to secure-hash.ctf.hackover.de port 1337
 ```

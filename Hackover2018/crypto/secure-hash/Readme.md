@@ -10,7 +10,7 @@ We're running a demo version, try it now:
 nc secure-hash.ctf.hackover.de 1337
 ````
 
-### resource
+### resources
 [secure_hash.cpp](Hackover2018/crypto/secure-hash/secure_hash.cpp)
 
 ### idea
@@ -84,7 +84,9 @@ Name: Password: Success! Logged in as root
 [*] Switching to interactive mode
 You win, the flag is hackover18{00ps_y0u_mu5t_h4ve_h1t_a_v3ry_unlikely_5peci4l_c4s3}
 [*] Got EOF while reading in interactive
-$ 
+$
 [*] Interrupted
 [*] Closed connection to secure-hash.ctf.hackover.de port 1337
 ```
+### flag
+hackover18{00ps_y0u_mu5t_h4ve_h1t_a_v3ry_unlikely_5peci4l_c4s3}

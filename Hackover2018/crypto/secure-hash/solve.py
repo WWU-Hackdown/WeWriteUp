@@ -1,4 +1,3 @@
-#python2
 from pwn import *
 
 r = remote("secure-hash.ctf.hackover.de",1337)

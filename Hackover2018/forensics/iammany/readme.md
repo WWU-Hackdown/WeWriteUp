@@ -7,7 +7,7 @@
 [hackover.png](hackover.png)
 
 ### idea
-The title implies some sort of hidden files, so we used ```binwalk```:
+The title implies some sort of hidden files, so we used ```binwalk hackover.png```:
 ```
 DECIMAL       HEXADECIMAL     DESCRIPTION
 --------------------------------------------------------------------------------

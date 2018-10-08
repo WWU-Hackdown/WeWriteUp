@@ -15,7 +15,5 @@ text
 The challenge text indicates some kind of morse code is used. That turned out to be the case.
 We looked at the audio with [audacity](https://www.audacityteam.org/).
 
-### script
-
 ### flag
 hackover18{poetry inspired by baked beans}

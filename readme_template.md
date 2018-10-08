@@ -12,3 +12,5 @@ text
 ### script
 
 ### flag
+
+[more write-ups](../../)

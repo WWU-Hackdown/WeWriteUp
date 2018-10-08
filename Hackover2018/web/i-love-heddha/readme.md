@@ -46,3 +46,5 @@ curl http://207.154.226.40:8080/flag/flag.txt --cookie "isAllowed=true" --header
 
 ### flag
 hackover18{4ngryW3bS3rv3rS4ysN0}
+
+[more write-ups](../../)

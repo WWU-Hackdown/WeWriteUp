@@ -62,3 +62,5 @@ Next we use ```unxz unbreak_my_start.tar.xz``` and ```tar xf unbreak_my_start.ta
 
 ### flag
 hackover18{U_f0und_th3_B3st_V3rs10n}
+
+[more write-ups](../../)

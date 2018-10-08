@@ -20,3 +20,5 @@ And we get the png files with ```binwalk -D 'png image:png' hackover.png```. One
 
 ### flag
 hackover18{different_Fl4g_for_3arly_ch33tahz}
+
+[more write-ups](../../)

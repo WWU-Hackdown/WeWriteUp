@@ -17,3 +17,5 @@ We looked at the audio with [audacity](https://www.audacityteam.org/).
 
 ### flag
 hackover18{poetry inspired by baked beans}
+
+[more write-ups](../../)

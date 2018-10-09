@@ -41,7 +41,7 @@ john_doe@notes.h18 worked.
 
 The login function in the ruby script is vulnerable to SQL-Injections through the reversed password.
 We used ```-- '1'='1' ro '1``` as password and got the flag.
-```
+```ruby
   def login(identification, password)
     hashed_input_password = hash(password)
     query = "select id, phone, email from users where email = '#{identification}' and password_digest = '#{hashed_input_password}' limit 1"
@@ -49,7 +49,7 @@ We used ```-- '1'='1' ro '1``` as password and got the flag.
     @database[query].first if user_exists?(identification)
   end
 ```
-```
+```ruby
   def hash(password)
     password.reverse
   end
@@ -57,5 +57,3 @@ We used ```-- '1'='1' ro '1``` as password and got the flag.
 
 ### flag
 hackover18{I_KN0W_H4W_70_STALK_2018}
-
-[more write-ups](../../)

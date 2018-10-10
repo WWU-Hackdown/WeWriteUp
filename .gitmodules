@@ -1,0 +1,3 @@
+[submodule "tools/GitTools"]
+	path = tools/GitTools
+	url = https://github.com/internetwache/GitTools.git
